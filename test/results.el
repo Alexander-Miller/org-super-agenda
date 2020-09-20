@@ -2024,4 +2024,24 @@ Wednesday   5 July 2017
               16:00...... ----------------
               18:00...... ----------------
               20:00...... ----------------
+" "903c57072a094bf52612ecccf3535ae7" "Day-agenda (W27):
+Wednesday   5 July 2017
+
+ Ambitions vs Bills with retained sorting
+  ambition:   Sched. 1x:  TODO [#A] Skype with president of Antarctica                             :universe:ambition:world::meetings:
+  ambition:   In   2 d.:  TODO [#A] Take over the world                                                     :universe:ambition::world:
+  ambition:   In  10 d.:  TODO [#A] Take over the universe                                                         :universe:ambition:
+  test:       In  27 d.:  TODO [#A] Spaceship lease                                                                  :bills:spaceship:
+  ambition:   In   5 d.:  TODO [#B] Renew membership in supervillain club                                         :universe:ambition::
+  test:       In  16 d.:  TODO [#B] Internet                                                                                   :bills:
+" "8e99e160e61a0555288f7a1b45bda03d" "Day-agenda (W27):
+Wednesday   5 July 2017
+
+ Ambitions vs Bills without retained sorting
+  ambition:   Sched. 1x:  TODO [#A] Skype with president of Antarctica                             :universe:ambition:world::meetings:
+  ambition:   In   2 d.:  TODO [#A] Take over the world                                                     :universe:ambition::world:
+  ambition:   In  10 d.:  TODO [#A] Take over the universe                                                         :universe:ambition:
+  ambition:   In   5 d.:  TODO [#B] Renew membership in supervillain club                                         :universe:ambition::
+  test:       In  27 d.:  TODO [#A] Spaceship lease                                                                  :bills:spaceship:
+  test:       In  16 d.:  TODO [#B] Internet                                                                                   :bills:
 "))
